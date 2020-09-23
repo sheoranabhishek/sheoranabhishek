@@ -28,7 +28,7 @@ Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Web
 - 🌱 I’m currently learning ReactJS and React Native; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheksheoran](https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume](https://drive.google.com/file/d/1eFtf9pvr3kkpyVxsnXhr1dD8ml_1eQCO/view?usp=sharing)
 
 **Languages and Tools:**  
 
