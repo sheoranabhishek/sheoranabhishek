@@ -13,9 +13,6 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=sheoranabhishek.sheoranabhishek)
-
 <br />
 
 Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am  a Computer Science Undergraduate 👨🏽‍💼[@Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a Backend Developer at Paytm 🙍🏽‍♂️ [@Paytm](http://www.paytm.com/).  
