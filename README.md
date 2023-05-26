@@ -14,6 +14,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am  a Computer Science Undergraduate 👨🏽‍💼[@Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a Backend Developer at Paytm 🙍🏽‍♂️ [@Paytm](http://www.paytm.com/).  
 
@@ -22,10 +23,10 @@ Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Dev
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning SpringBoot and Node.js; 
+- 🌱 I’m currently learning React.js, Typescript, SpringBoot and Node.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheksheoran](https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.);
-- 📝[Resume](https://drive.google.com/file/d/1q-Aj3jD6HDFo2xDkdnIPvg8j8m3nh925/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1QQv1h3CM5G2_3B0ukPW3hbE-5930_6fe/view?usp=sharing)
 
 **Languages and Tools:**  
 
