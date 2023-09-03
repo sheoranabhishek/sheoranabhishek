@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am  a Computer Science Undergraduate 👨🏽‍💼[@Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a Backend Developer at Paytm 🙍🏽‍♂️ [@Paytm](http://www.paytm.com/).  
+Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am  a Computer Science Undergraduate 👨🏽‍💼[@Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a Backend Developer at Paytm 🇮🇳 [@Paytm](http://www.paytm.com/).  
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
