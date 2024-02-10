@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/ab_sheoran">
+<a href="https://twitter.com/the_wise_bit">
   <img align="left" alt="Abhishek Sheoran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-sheoran-248189175/">
+<a href="https://www.linkedin.com/in/abhishek-sheoran/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.">
@@ -26,7 +26,7 @@ Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Dev
 - 🌱 I’m currently learning React.js, Typescript, SpringBoot and Node.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheksheoran](https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.);
-- 📝[Resume](https://drive.google.com/file/d/1QQv1h3CM5G2_3B0ukPW3hbE-5930_6fe/view?usp=sharing)
+- 📝[Resume]([https://drive.google.com/file/d/1QQv1h3CM5G2_3B0ukPW3hbE-5930_6fe/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1eNf9BQHxhDTHyR-QB2WTGvB7dHVzqa2P))
 
 **Languages and Tools:**  
 
