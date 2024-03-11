@@ -26,7 +26,7 @@ Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Dev
 - 🌱 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheksheoran](https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.);
-- 📝[Resume]([https://www.overleaf.com/read/fjwbzjsyssnw#437914](https://www.overleaf.com/read/fjwbzjsyssnw#437914))
+- 📝[Resume](https://www.overleaf.com/read/fjwbzjsyssnw#437914)
 
 **Languages and Tools:**  
 
