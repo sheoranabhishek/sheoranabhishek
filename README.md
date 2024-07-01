@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 & UI/UX Designer from India. I am  a Computer Science Undergraduate from 👨🏽‍💼[Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a Backend Java Developer at myKaarma 🇮🇳 [@myKaarma](http://www.mykaarma.com/).  
+Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Developer 🚀 & UI/UX Designer from India. I am  a Computer Science Undergraduate from 👨🏽‍💼[Thapar Institute of Engineering & Technology](https://www.thapar.edu). Beside's programming, I love travelling places. Currently ,  I'm a full stack developer at myKaarma 🇮🇳 [@myKaarma](http://www.mykaarma.com/).  
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
