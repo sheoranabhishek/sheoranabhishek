@@ -21,11 +21,11 @@ Hi, I'm [Abhishek Sheoran](https://sheoranabhishek.github.io/), a Full Stack Dev
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Next.js; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheksheoran](https://api.whatsapp.com/send?phone=8053981545&text=Hey!%20Thank%20you%20for%20contacting%20for%20Abhishek.%20He'll%20connect%20to%20you%20shortly.);
+- 👨🏽‍💻 Languages : C++, Java, Typescript/Javascript, Python.
+- 👨🏽‍💻 Backend: Springboot & Express.js
+- 🌱 Frontend: Angular, React.js, Next.js, Vite
+- 💬 DB & Data Streaming : Nginx, MySQL, PostgreSQL, MongoDB, Redis, Aerospike
+- 📫 Cloud & DevOps: AWS, Serverless, Docker, Prometheus, Grafana, Telegraf, Github CI/CD Pipelines, Jenkins & Git
 - 📝[Resume](https://www.overleaf.com/read/fjwbzjsyssnw#437914)
 
 **Languages and Tools:**  
